@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-I’m Andrea Zampetti, a PhD student in Animal Biology at **Sapienza University of Rome** 🎓. My research focuses on leveraging **machine learning** 🤖 and ecological modelling 🌿 to advance **wildlife conservation** 🐾.  
+I’m Andrea Zampetti, a PhD candidate in Animal Biology at **Sapienza University of Rome** 🎓. My research focuses on leveraging **machine learning** 🤖 and ecological modelling 🌿 to advance **wildlife conservation** 🐾.  
 
 ### 🔭 Current Projects  
 - Exploring **automated wildlife density estimation** tools using **camera traps** 📷 and cutting-edge **AI techniques**.
